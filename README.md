@@ -8,7 +8,7 @@ In .bashrc do the following:
     PS1="\u@\h:\w\$(git_bash_prompt)\$ "
                   ^^^^^^^^^^^^^^^^^^^^^
 ```
-NOTE: The backslash before the $ is required.
+NOTE: The backslash before the `$` is required.
 
 ## Prompt
 ![~/dev/git-bash-prompt [master ≡] $](assets/sample-prompt.png)
